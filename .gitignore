@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Local Netlify folder
+.netlify/
+
+# Logs & OS files
+*.log
+.DS_Store
+Thumbs.db
