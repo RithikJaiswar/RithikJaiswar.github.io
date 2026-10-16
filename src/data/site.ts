@@ -10,7 +10,7 @@ export const profile = {
 } as const
 
 export const contact = {
-  email: 'rithikjaiswar@gmail.com',
+  email: 'rithikjaiswar21@gmail.com',
   github: 'https://github.com/rithikjaiswar',
   linkedin: 'https://www.linkedin.com/in/rithikjaiswar',
   resume: '/resume/Rithik-Jaiswar-Resume.pdf',
