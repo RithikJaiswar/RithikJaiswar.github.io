@@ -36,7 +36,7 @@ text('Data Analyst | Data Scientist | AI/ML & GenAI Enthusiast', {
   color: '0.20 0.42 0.85 rg',
   gap: 15,
 })
-text('rithikjaiswar@gmail.com  •  github.com/rithikjaiswar  •  linkedin.com/in/rithikjaiswar', {
+text('rithikjaiswar21@gmail.com  •  github.com/rithikjaiswar  •  linkedin.com/in/rithikjaiswar', {
   size: 9,
   color: '0.35 0.39 0.47 rg',
   gap: 8,
