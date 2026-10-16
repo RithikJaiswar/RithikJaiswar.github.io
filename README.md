@@ -1,7 +1,7 @@
 # Rithik Jaiswar — Data & AI Portfolio
 
-A premium, recruiter-focused portfolio for a fresher targeting **Data Analyst, Data Scientist,
-AI/ML Engineer and GenAI Engineer** roles. Dark futuristic data/AI aesthetic, interactive Three.js
+**Data Analyst, Data Scientist,
+AI/ML Engineer GenAI Engineer and Software Engineer** roles. Dark futuristic data/AI aesthetic, interactive Three.js
 scenes, animated charts and a fully data-driven content layer.
 
 **Stack:** React 19 · TypeScript · Vite · Three.js + React Three Fiber + drei · Framer Motion ·
